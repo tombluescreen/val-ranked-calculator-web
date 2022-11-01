@@ -1,0 +1,30 @@
+Valorant Ranked Rules:
+rr restriction is applied to all players
+5 stack rr restriction rank <= diamond 2 (25%-90%), rank > diamond 2 (50%-95%)
+5 Stack Minimum Reduction = 25% in diamond 2 and below
+5 Stack no rank restrictions
+4 Stacks cannot play
+
+
+"https://static.wikia.nocookie.net/valorant/images/7/7f/TX_CompetitiveTier_Large_3.png/revision/latest/scale-to-width-down/225?cb=20200623203005"
+"https://static.wikia.nocookie.net/valorant/images/2/28/TX_CompetitiveTier_Large_4.png/revision/latest/scale-to-width-down/225?cb=20200623203053"
+"https://static.wikia.nocookie.net/valorant/images/b/b8/TX_CompetitiveTier_Large_5.png/revision/latest/scale-to-width-down/225?cb=20200623203101"
+"https://static.wikia.nocookie.net/valorant/images/a/a2/TX_CompetitiveTier_Large_6.png/revision/latest/scale-to-width-down/225?cb=20200623203119"
+"https://static.wikia.nocookie.net/valorant/images/e/e7/TX_CompetitiveTier_Large_7.png/revision/latest/scale-to-width-down/225?cb=20200623203140"
+"https://static.wikia.nocookie.net/valorant/images/a/a8/TX_CompetitiveTier_Large_8.png/revision/latest/scale-to-width-down/225?cb=20200623203313"
+"https://static.wikia.nocookie.net/valorant/images/0/09/TX_CompetitiveTier_Large_9.png/revision/latest/scale-to-width-down/225?cb=20200623203408"
+"https://static.wikia.nocookie.net/valorant/images/c/ca/TX_CompetitiveTier_Large_10.png/revision/latest/scale-to-width-down/225?cb=20200623203410"
+"https://static.wikia.nocookie.net/valorant/images/1/1e/TX_CompetitiveTier_Large_11.png/revision/latest/scale-to-width-down/225?cb=20200623203413"
+"https://static.wikia.nocookie.net/valorant/images/9/91/TX_CompetitiveTier_Large_12.png/revision/latest/scale-to-width-down/225?cb=20200623203413"
+"https://static.wikia.nocookie.net/valorant/images/4/45/TX_CompetitiveTier_Large_13.png/revision/latest/scale-to-width-down/225?cb=20200623203415"
+"https://static.wikia.nocookie.net/valorant/images/c/c0/TX_CompetitiveTier_Large_14.png/revision/latest/scale-to-width-down/225?cb=20200623203417"
+"https://static.wikia.nocookie.net/valorant/images/d/d3/TX_CompetitiveTier_Large_15.png/revision/latest/scale-to-width-down/225?cb=20200623203419"
+"https://static.wikia.nocookie.net/valorant/images/a/a5/TX_CompetitiveTier_Large_16.png/revision/latest/scale-to-width-down/225?cb=20200623203606"
+"https://static.wikia.nocookie.net/valorant/images/f/f2/TX_CompetitiveTier_Large_17.png/revision/latest/scale-to-width-down/225?cb=20200623203607"
+"https://static.wikia.nocookie.net/valorant/images/b/b7/TX_CompetitiveTier_Large_18.png/revision/latest/scale-to-width-down/225?cb=20200623203609"
+"https://static.wikia.nocookie.net/valorant/images/3/32/TX_CompetitiveTier_Large_19.png/revision/latest/scale-to-width-down/225?cb=20200623203610"
+"https://static.wikia.nocookie.net/valorant/images/1/11/TX_CompetitiveTier_Large_20.png/revision/latest/scale-to-width-down/225?cb=20200623203611"
+"https://static.wikia.nocookie.net/valorant/images/8/86/TX_CompetitiveTier_Large_21.png/revision/latest/scale-to-width-down/225?cb=20200623203613"
+"https://static.wikia.nocookie.net/valorant/images/e/e5/TX_CompetitiveTier_Large_22.png/revision/latest/scale-to-width-down/242?cb=20200623203615"
+"https://static.wikia.nocookie.net/valorant/images/f/f9/TX_CompetitiveTier_Large_23.png/revision/latest/scale-to-width-down/242?cb=20200623203617"
+"https://static.wikia.nocookie.net/valorant/images/2/24/TX_CompetitiveTier_Large_24.png/revision/latest/scale-to-width-down/225?cb=20200623203621"

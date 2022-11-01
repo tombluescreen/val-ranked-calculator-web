@@ -1,0 +1,159 @@
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('fonts/Raleway/Raleway-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TungstonBold';
+    src: url('fonts/Tungsten-Bold.ttf/Tungsten-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    background-color: #0f1923;
+    color: #d9d5cb;
+    font-family: 'Raleway';
+    margin: 0px;
+    
+}
+
+p {
+    padding-left: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.footer {
+    
+
+    text-align: center;
+    background-color: #1c2229;
+    margin: 0px;
+    padding: 0px;
+}
+
+.vtitle {
+    font-family: 'TungstonBold';
+    font-size: 100px;
+    text-align: center;
+    
+    
+    
+}
+.vtitle svg {
+    fill:#fb4959; 
+    display:inline;
+    max-width: 500px;
+}
+
+.playerlist {
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    text-align: center;
+    height: 600px;
+    margin: 0;
+    padding: 0;
+}
+
+.playerlistitem {
+    border-width: 1px;
+    border-color: #d9d5cb;
+    border-style: solid;
+    flex: 20%;
+    display: flex;
+    
+    justify-content: center;
+    
+    font-size: 60px;
+    overflow-y: auto;
+    
+    margin: 10px;
+    padding: 10px;
+
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-image: url("rank\ ims/-1.png");
+    
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: background-color 0.5s, flex 0.5s, background-image 0.2s;
+}
+
+.playerlistitem:hover {
+    flex: 24%;
+    
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+
+.rankpicker {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    
+    
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.rankdiv {
+    display: flex;
+    /* flex: 1; */
+    width:100%;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    
+    
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+.rankitem {
+    /* flex: 33%; */
+    max-width: 33%; 
+    
+    height: auto;
+    transition: background-color 0.5s;
+}
+
+.rankitem:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.playerlistitem::-webkit-scrollbar {
+    display: none;
+}
+  
+/* Hide scrollbar for IE, Edge and Firefox */
+.playerlistitem {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+} 
+
+.hide {
+    display: none !important;
+}
+@media (max-width:900px){
+    .rankdiv {
+        flex-wrap: wrap;
+    }
+    .rankitem {
+        max-width: 100%; 
+    }
+}
